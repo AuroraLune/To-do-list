@@ -10,9 +10,8 @@
 - 🎯 **Giao diện responsive** - Hoạt động tốt trên cả mobile/desktop
 
 ## 🛠 Công nghệ sử dụng
-- **Frontend**: HTML5, CSS3, JavaScript thuần (ES6+)
+- **Frontend**: HTML5, CSS3, JavaScript thuần 
 - **Icons**: Font Awesome 6
-- **Styling**: CSS hiện đại với biến số
 - **Quản lý trạng thái**: Tự thiết kế với localStorage
 
 ## 📦 Cài đặt
